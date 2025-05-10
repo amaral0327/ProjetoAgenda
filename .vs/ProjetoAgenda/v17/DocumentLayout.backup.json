@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\",
+  "WorkspaceRootPath": "E:\\ProjetoAgenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|d:\\projetos gabriel\\git\\projetoagenda\\projetoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|d:\\projetos gabriel\\git\\projetoagenda\\projetoagenda\\controllers\\barbeiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\controllers\\barbeiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|d:\\projetos gabriel\\git\\projetoagenda\\projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|d:\\projetos gabriel\\git\\projetoagenda\\projetoagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|d:\\projetos gabriel\\git\\projetoagenda\\projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|d:\\projetos gabriel\\git\\projetoagenda\\projetoagenda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|d:\\projetos gabriel\\git\\projetoagenda\\projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\controllers\\barbeiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\controllers\\barbeiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\migrations\\20250510193341_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\migrations\\20250510193341_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BarbeirosController.cs",
-              "DocumentMoniker": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\BarbeirosController.cs",
-              "RelativeDocumentMoniker": "ProjetoAgenda\\Controllers\\BarbeirosController.cs",
-              "ToolTip": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\BarbeirosController.cs",
-              "RelativeToolTip": "ProjetoAgenda\\Controllers\\BarbeirosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:53:25.47Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "20250510193341_Inicial.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Migrations\\20250510193341_Inicial.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda\\Migrations\\20250510193341_Inicial.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Migrations\\20250510193341_Inicial.cs",
+              "RelativeToolTip": "ProjetoAgenda\\Migrations\\20250510193341_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:33:42.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarbeirosController.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\BarbeirosController.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda\\Controllers\\BarbeirosController.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\BarbeirosController.cs",
+              "RelativeToolTip": "ProjetoAgenda\\Controllers\\BarbeirosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:53:25.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\appsettings.json",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoAgenda\\appsettings.json",
-              "ToolTip": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\appsettings.json",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\appsettings.json",
               "RelativeToolTip": "ProjetoAgenda\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-08T17:48:22.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Program.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Program.cs",
-              "ToolTip": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Program.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Program.cs",
               "RelativeToolTip": "ProjetoAgenda\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:42:52.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProjetoAgenda\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ProjetoAgenda\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:23:47.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:42:52.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjetoAgenda\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:23:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Agendamento.cs",
-              "DocumentMoniker": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Models\\Agendamento.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Agendamento.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Models\\Agendamento.cs",
-              "ToolTip": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Models\\Agendamento.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Agendamento.cs",
               "RelativeToolTip": "ProjetoAgenda\\Models\\Agendamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:22:54.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:22:54.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Models\\Cliente.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Models\\Cliente.cs",
-              "ToolTip": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Models\\Cliente.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Cliente.cs",
               "RelativeToolTip": "ProjetoAgenda\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:22:44.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:22:44.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Barbeiro.cs",
-              "DocumentMoniker": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Models\\Barbeiro.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Barbeiro.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Models\\Barbeiro.cs",
-              "ToolTip": "D:\\Projetos Gabriel\\Git\\ProjetoAgenda\\ProjetoAgenda\\Models\\Barbeiro.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Barbeiro.cs",
               "RelativeToolTip": "ProjetoAgenda\\Models\\Barbeiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:22:31.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:22:31.373Z"
             }
           ]
         }
