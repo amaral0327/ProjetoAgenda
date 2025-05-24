@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "E:\\ProjetoAgenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\migrations\\20250510193341_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\migrations\\20250510193341_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|solutionrelative:projetoagenda\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0EC485D-8CA7-400B-94AE-F465DA40594B}|ProjetoAgenda\\ProjetoAgenda.csproj|e:\\projetoagenda\\projetoagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "E:\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "ProjetoAgenda\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAhwEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:19:40.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Controllers\\ValuesController.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "20250510193341_Inicial.cs",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Migrations\\20250510193341_Inicial.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Migrations\\20250510193341_Inicial.cs",
@@ -74,11 +91,12 @@
               "RelativeToolTip": "ProjetoAgenda\\Migrations\\20250510193341_Inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:33:42.223Z"
+              "WhenOpened": "2025-05-10T19:33:42.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BarbeirosController.cs",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Controllers\\BarbeirosController.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Controllers\\BarbeirosController.cs",
@@ -90,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoAgenda\\appsettings.json",
@@ -102,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Program.cs",
@@ -110,11 +128,12 @@
               "RelativeToolTip": "ProjetoAgenda\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:42:52.374Z"
+              "WhenOpened": "2025-05-08T17:42:52.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Data\\AppDbContext.cs",
@@ -127,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Agendamento.cs",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Agendamento.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Models\\Agendamento.cs",
@@ -140,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "E:\\ProjetoAgenda\\ProjetoAgenda\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "ProjetoAgenda\\Models\\Cliente.cs",
@@ -148,7 +167,8 @@
               "RelativeToolTip": "ProjetoAgenda\\Models\\Cliente.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:22:44.706Z"
+              "WhenOpened": "2025-05-08T17:22:44.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -160,7 +180,8 @@
               "RelativeToolTip": "ProjetoAgenda\\Models\\Barbeiro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:22:31.373Z"
+              "WhenOpened": "2025-05-08T17:22:31.373Z",
+              "EditorCaption": ""
             }
           ]
         }
